@@ -9,3 +9,6 @@ Doctype Declarations
 Comments
 Importing Images, Relative and Absolute Paths
 Creating Links: Relative and Absolute
+##Credits:  
+    Photos by allrecipes.com
+    https://www.allrecipes.com
